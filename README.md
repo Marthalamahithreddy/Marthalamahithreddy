@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi, I'm Mahith Reddy 👋<br><br>Software Engineer focused on backend development, AI/ML, and intelligent systems. I build production-oriented projects using Python, FastAPI, React/Next.js, PostgreSQL, Docker, and RAG/LLM technologies.<br><br>My GitHub includes work across financial analytics, AI assistants, backend APIs, developer tools, automation, and full-stack applications.
+Hi, I'm Mahith Reddy 👋
+
+Software Engineer focused on backend systems, AI/ML, and intelligent applications. I build production-oriented software using Python, FastAPI, React/Next.js, PostgreSQL, Docker, and RAG/LLM technologies.
+
+Interested in building scalable backend systems, developer tools, AI-powered applications, and data-intensive software.
 
 ## 🌐 Socials
 
