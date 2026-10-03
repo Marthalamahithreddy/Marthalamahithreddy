@@ -96,11 +96,9 @@ Evaluated machine-learning and deep-learning approaches for computationally effi
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
-![](https://github-readme-stats.shion.dev/api?username=Marthalamahithreddy&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Marthalamahithreddy&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Marthalamahithreddy&theme=dark&hide_border=true&layout=compact&langs_count=6" alt="Most Used Languages" />
 
 ---
 
