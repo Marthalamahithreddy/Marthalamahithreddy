@@ -25,7 +25,7 @@ Financial analytics and valuation platform built around production-grade backend
 
 ## 🔬 Research
 
-### ChunkyBERT — Political Bias Detection in News Media
+### ChunkyBERT - Political Bias Detection in News Media
 **BERT · Transformers · NLP**
 
 Published in **Scientific Reports**.
